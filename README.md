@@ -1,6 +1,6 @@
-# Timed Release Crypto System
+# Collectively Secure Voting System
 
-A decentralized system for sending time-locked encrypted messages using blockchain technology and cryptographic protocols. This system allows clients to share secrets among multiple agents who are responsible for revealing the secret at a specific time through smart contract interactions.
+A blockchain-based voting system with voter-controlled ballot secrecy. 
 
 ## System Architecture
 
